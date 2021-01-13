@@ -36,7 +36,7 @@ import numba as nb
 import numpy as np
 import pandas as pd
 
-from numpy import pi
+from math import pi
 from scipy.integrate import ode
 from scipy.linalg import solve
 
